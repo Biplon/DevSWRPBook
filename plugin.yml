@@ -1,0 +1,9 @@
+name: RPBook
+author: Vestri
+description: RPBook
+version: 0.1
+main: rpb.java.RPBook
+commands:
+  rp :
+    description: rp [Vorname] [Nachname] [Geburtsdatum] [Geschlecht]
+    usage: /rp [Vorname] [Nachname] [Geburtsdatum] [Geschlecht]
