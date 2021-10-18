@@ -2,7 +2,7 @@
 DevSW Auftragsentwicklung Nick
 
 
-/rp <Vorname> <Nachname> <Geburtsdatum> <Geschlecht>
+/rp [Vorname] [Nachname] [Geburtsdatum] [Geschlecht]
 
 Spieler erhält Buch mit den Angegeben Daten drin.
 
