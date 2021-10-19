@@ -1,7 +1,7 @@
 name: RPBook
 author: Vestri
 description: RPBook
-version: 0.1
+version: 0.2
 main: rpb.java.RPBook
 commands:
   rp :
